@@ -1,0 +1,60 @@
+borocd,cd_short_title,IPV_DIR,son_issue_1,son_issue_2,son_issue_3
+101,Manhattan CD 1,623,Resiliency,Traffic,Other
+102,Manhattan CD 2,492,Affordable housing,Parks,Schools
+103,Manhattan CD 3,1760,Affordable housing,Senior services,Other
+104,Manhattan CD 4,1317,Affordable housing,Neighborhood preservation (development trends),Traffic
+105,Manhattan CD 5,825,Affordable housing,Social services (including services for the homeless),Transit (buses & subways)
+106,Manhattan CD 6,813,Affordable housing,Parks,Senior services
+107,Manhattan CD 7,1363,Affordable housing,Schools,Social services (including services for the homeless)
+108,Manhattan CD 8,862,Affordable housing,Parks,Schools
+109,Manhattan CD 9,1502,Affordable housing,Crime,Unemployment
+110,Manhattan CD 10,3032,Affordable housing,"Commercial development (retail mix, small business and MWBE support, etc.)",Trash removal & cleanliness
+111,Manhattan CD 11,3056,Affordable housing,Neighborhood preservation (development trends),Unemployment
+112,Manhattan CD 12,2120,Affordable housing,Neighborhood preservation (development trends),Schools
+201,Bronx CD 1,3099,Affordable housing,Health care services,Unemployment
+202,Bronx CD 2,1395,Health care services,Parks,Schools
+203,Bronx CD 3,2985,Health care services,Unemployment,Youth and children‚Äôs services
+204,Bronx CD 4,2975,Affordable housing,Crime,Youth and children‚Äôs services
+205,Bronx CD 5,3249,Schools,Traffic,Transit (buses & subways)
+206,Bronx CD 6,2179,Crime,Schools,Unemployment
+207,Bronx CD 7,2547,Affordable housing,Neighborhood preservation (development trends),Schools
+208,Bronx CD 8,974,Affordable housing,Parks,Senior services
+209,Bronx CD 9,3689,Affordable housing,Crime,Neighborhood preservation (development trends)
+210,Bronx CD 10,1704,"Quality of life issues (noise, graffiti, petty crime, etc.)",Traffic,Transit (buses & subways)
+211,Bronx CD 11,1731,Not submitted,Not submitted,Not submitted
+212,Bronx CD 12,3203,Parks,"Quality of life issues (noise, graffiti, petty crime, etc.)",Trash removal & cleanliness
+301,Brooklyn CD 1,1737,Affordable housing,Neighborhood preservation (development trends),Senior services
+302,Brooklyn CD 2,1580,Affordable housing,Schools,Other
+303,Brooklyn CD 3,3030,Affordable housing,Schools,Trash removal & cleanliness
+304,Brooklyn CD 4,1532,Affordable housing,Health care services,Youth and children‚Äôs services
+305,Brooklyn CD 5,4307,Affordable housing,Cultural facilities & programs,Unemployment
+306,Brooklyn CD 6,926,Not submitted,Not submitted,Not submitted
+307,Brooklyn CD 7,791,Affordable housing,Schools,Other
+308,Brooklyn CD 8,1986,Affordable housing,Neighborhood preservation (development trends),Police-community relations
+309,Brooklyn CD 9,1253,Affordable housing,Schools,Social services (including services for the homeless)
+310,Brooklyn CD 10,660,Neighborhood preservation (development trends),Parks,"Quality of life issues (noise, graffiti, petty crime, etc.)"
+311,Brooklyn CD 11,1194,"Quality of life issues (noise, graffiti, petty crime, etc.)",Street conditions (roadway maintenance),Trash removal & cleanliness
+312,Brooklyn CD 12,729,Affordable housing,Traffic,Trash removal & cleanliness
+313,Brooklyn CD 13,1627,Resiliency,Street conditions (roadway maintenance),Traffic
+314,Brooklyn CD 14,1598,Parks,Street conditions (roadway maintenance),Traffic
+315,Brooklyn CD 15,1303,Traffic,Transit (buses & subways),Trash removal & cleanliness
+316,Brooklyn CD 16,3141,Affordable housing,Health care services,Youth and children‚Äôs services
+317,Brooklyn CD 17,2684,Cultural facilities & programs,Schools,Senior services
+318,Brooklyn CD 18,2446,Parks,Resiliency,Street conditions (roadway maintenance)
+401,Queens CD 1,2019,Affordable housing,Police-community relations,Other
+402,Queens CD 2,1029,Affordable housing,Health care services,Schools
+403,Queens CD 3,2014,Affordable housing,Schools,Senior services
+404,Queens CD 4,1612,Neighborhood preservation (development trends),Schools,Traffic
+405,Queens CD 5,1420,Emergency response,Street flooding,Traffic
+406,Queens CD 6,636,Schools,Senior services,Transit (buses & subways)
+407,Queens CD 7,1557,Street conditions (roadway maintenance),Street flooding,Traffic
+408,Queens CD 8,1245,Parks,Street conditions (roadway maintenance),Street flooding
+409,Queens CD 9,1837,Affordable housing,Schools,Senior services
+410,Queens CD 10,1858,"Quality of life issues (noise, graffiti, petty crime, etc.)",Resiliency,Street conditions (roadway maintenance)
+411,Queens CD 11,500,Parks,"Quality of life issues (noise, graffiti, petty crime, etc.)",Street conditions (roadway maintenance)
+412,Queens CD 12,4269,Schools,Senior services,Street flooding
+413,Queens CD 13,2027,"Commercial development (retail mix, small business and MWBE support, etc.)",Neighborhood preservation (development trends),Traffic
+414,Queens CD 14,2490,Resiliency,Transit (buses & subways),Unemployment
+501,Staten Island CD 1,4206,Traffic,Transit (buses & subways),Other
+502,Staten Island CD 2,1265,Senior services,Traffic,Other
+503,Staten Island CD 3,1169,Street conditions (roadway maintenance),Street flooding,Traffic
