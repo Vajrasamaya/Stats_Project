@@ -19,4 +19,4 @@ Family Violence Related Snapshots: NYC Community Board (CB) Districts https://bi
 Community District Profiles: https://communityprofiles.planning.nyc.gov/
 
 ## Analysis
-our conclusions are based on the performance of  the T-test, Cohen's D coefficients, linear regression models, Pearson's correlation coefficient and ANOVA.
+Our conclusions are based on the performance of  the T-test, Cohen's D coefficients, linear regression models, Pearson's correlation coefficient and ANOVA.
